@@ -722,6 +722,21 @@ a {
   color: #7770cc;
   text-align: center;
 }
+.cid-sOCrjuSSip {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #7770cc;
+}
+.cid-sOCrjuSSip .line {
+  background-color: #f2c9e9;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sOCrjuSSip .mbr-text {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-sN4FRgjofB {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -846,8 +861,39 @@ a {
 .cid-sOCiBHpaHr .card-title {
   color: #7770cc;
 }
-.cid-s48P1Icc8J {
+.cid-sOCtl30VOA {
   padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-sOCtl30VOA .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sOCtl30VOA form.mbr-form {
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+@media (min-width: 992px) {
+  .cid-sOCtl30VOA form.mbr-form {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sOCtl30VOA form.mbr-form {
+    padding: 1rem;
+  }
+}
+.cid-sOCtl30VOA form.mbr-form .mbr-section-btn {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+.cid-sOCtl30VOA form.mbr-form .mbr-section-btn .btn {
+  width: 100%;
+  height: 100%;
+}
+.cid-s48P1Icc8J {
+  padding-top: 4rem;
   padding-bottom: 3rem;
   background-color: #000000;
 }
